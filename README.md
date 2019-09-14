@@ -20,6 +20,6 @@ https://www.w3schools.com/html/exercise.asp?filename=exercise_html_attributes1
 tapşırıqlarını işləyə bilərsiniz. Qarşıdakı linklərdən isə haqqlarında oxuya bilərsiniz.
 
 
-Qeyd:Arallarında keçmədiklərimiz də var. Onları saxlaya bilərsiniz.
+Qeyd:Aralarında keçmədiklərimiz də var. Onları saxlaya bilərsiniz.
 
 Uğurlar!
