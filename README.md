@@ -22,4 +22,4 @@ tapşırıqlarını işləyə bilərsiniz. Qarşıdakı linklərdən isə haqqla
 
 Qeyd:Aralarında keçmədiklərimiz də var. Onları saxlaya bilərsiniz.
 
-Uğurlar!
+Uğurlar! 
